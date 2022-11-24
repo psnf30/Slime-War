@@ -47,7 +47,7 @@ public class Board extends JPanel{
     boolean title ;
     boolean balls[][];
     boolean states[][];
-    int lives = 10;
+    int lives = 3;
         
     public Board() {
         title = true;
